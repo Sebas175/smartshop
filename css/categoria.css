@@ -1,0 +1,36 @@
+#Categoria{
+margin: 50px;
+}
+
+#Categoria h1{
+    text-align: center;
+    margin: 20px;
+}
+
+.categoria-cuadro{
+    width: 100%;
+    height: 400px;
+    padding: 50px 150px;   
+    margin-bottom: 100px;
+}
+
+.fondo-negro{
+    background-color: #000;
+}
+
+.fondo-celeste{
+    background-color: #439FAA;
+}
+
+.categoria-cuadro img{
+    width: 100%;
+    height: 450px;
+    border-radius: 50%;
+    /* border: 20px solid green; */
+}
+
+.categoria-cuadro p{
+    color: #FFF;
+    font-size: 60px;
+    text-align: center;
+}
