@@ -1,6 +1,11 @@
 * {box-sizing: border-box}
 body {font-family: Verdana, sans-serif; margin:0}
 .mySlides {display: none}
+
+#Novedades h1{
+  text-align: center;
+}
+
 img {vertical-align: middle;}
 
 /* Slideshow container */
